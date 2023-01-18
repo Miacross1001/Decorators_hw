@@ -1,0 +1,12 @@
+Arguments: ({'user1': [213, 213, 213, 15, 213], 'user2': [54, 54, 119, 119, 119], 'user3': [213, 98, 98, 35]},); {}
+Result: {98, 35, 15, 213, 54, 119}
+Name func: set_func
+Data: 2023-01-18 12:36:52.347052
+Arguments: ({'facebook': 55, 'yandex': 120, 'vk': 115, 'google': 99, 'email': 42, 'ok': 98},); {}
+Result: yandex
+Name func: max_key
+Data: 2023-01-18 12:36:52.347060
+Arguments: (['2018-01-01', 'yandex', 'cpc', 100],); {}
+Result: {'2018-01-01': {'yandex': {'cpc': 100}}}
+Name func: foo
+Data: 2023-01-18 12:36:52.347062

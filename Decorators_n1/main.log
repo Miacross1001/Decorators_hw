@@ -1,0 +1,16 @@
+Time working: 0:00:00.000018
+Name func: hello_world
+Time working: 0:00:00.000014
+Name func: summator
+Time working: 0:00:00.000003
+Name func: div
+Arguments: (); {}
+Result: Hello World
+Arguments: (2, 2); {}
+Result: 4
+Arguments: (6, 2); {}
+Result: 3.0
+Arguments: (4.3,); {'b': 2.2}
+Result: 6.5
+Arguments: (); {'a': 0, 'b': 0}
+Result: 0
